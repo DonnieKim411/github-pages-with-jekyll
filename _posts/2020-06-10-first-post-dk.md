@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "My fisrt post!"
+title: "My fisrt post!"
+date: 2020-06-09
 ---
 
 # First post
